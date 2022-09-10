@@ -3,8 +3,7 @@ import math
 
 def readNumber():
     """Checks if provided string is float number. \n
-        Time complexity - O(n),\n
-        n  = length of string
+        Time complexity - O(n), n  = length of string
         """
     while True:
         flag1 = False
